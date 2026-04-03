@@ -1,4 +1,4 @@
-# MIST4610-Project1-Group2
+# University Course Registration System
 
 ## Team Name:
 61608 Group 2
