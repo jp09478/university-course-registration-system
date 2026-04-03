@@ -1,6 +1,6 @@
 # University Course Registration System
 
-## Team Members:
+## Members:
 1. Clark, Emily [@Emc33728](https://github.com/Emc33728)
 2. Park, Isabella [@jp09478](https://github.com/jp09478)
 3. Patel, Siddh [@srp8](https://github.com/srp8)
