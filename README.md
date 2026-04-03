@@ -1,8 +1,5 @@
 # University Course Registration System
 
-## Team Name:
-61608 Group 2
-
 ## Team Members:
 1. Clark, Emily [@Emc33728](https://github.com/Emc33728)
 2. Park, Isabella [@jp09478](https://github.com/jp09478)
